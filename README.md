@@ -18,8 +18,13 @@ References
 Here are some things I looked at while making these tutorials. Some of it may be out of date.
 
 https://en.wikipedia.org/wiki/Perceptron
+
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html
 https://www.medcalc.org/manual/logistic_regression.php
+
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+
 https://en.wikipedia.org/wiki/Support-vector_machine
+
 https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+
