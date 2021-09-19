@@ -11,7 +11,7 @@ Phishing and Spam Classification-2
 
 * [Linear Regression for Spam Classification](https://github.com/suneelkumar13/AI-and-Cybersecurity-Assignment_2/blob/main/AISec_Spam_Linear_Regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suneelkumar13/AI-and-Cybersecurity-Spam_Detection_Assignment_2/blob/main/AISec_Spam_Linear_Regression.ipynb)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**What is Linear Regression??****Simple linear regression is a type of regression analysis where the number of independent variables is one and there is a linear relationship between the independent(x) and dependent(y) variable. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**What is Linear Regression??** Simple linear regression is a type of regression analysis where the number of independent variables is one and there is a linear relationship between the independent(x) and dependent(y) variable. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dataset Details:** The dataset used in Logistic Regression for Spam Classification Jupyter Notebook is a refined dataset of [SMS Spam Collection Data Set](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection), extracted from UCI Machine Learning Repository.
 
